@@ -47,3 +47,6 @@ app.patch("/notes/:index", (req, res) => {
 
 module.exports = app;
 // 1:09
+// Database is present inside the cluster (cluster is group of shared servers) and cluster present in MongoDB
+//
+// 2:10
